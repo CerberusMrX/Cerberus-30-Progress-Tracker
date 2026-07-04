@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://via.placeholder.com/150/000000/FFFFFF/?text=C30" alt="Cerberus 30 Logo" width="120" height="120" style="border-radius: 20px;">
-  
+
   <h1 align="center">Cerberus 30</h1>
   
   <p align="center">
@@ -33,13 +31,13 @@ Whether you are tracking fitness, coding streaks, or personal development milest
 ## 📸 UI Previews
 
 <div align="center">
-  <img src="assets/dashboard.png" alt="Cerberus 30 Dashboard View" width="800" style="border-radius: 10px; margin-bottom: 15px;" />
+  <img src="client/src/assets/dashboard.png" alt="Cerberus 30 Dashboard View" width="800" style="border-radius: 10px; margin-bottom: 15px;" />
   <p><i>The Main Dashboard & Progression Timeline</i></p>
   
-  <img src="assets/a.png" alt="30-Day Matrix Heatmap" width="800" style="border-radius: 10px; margin-bottom: 15px;" />
+  <img src="client/src/assets/a.png" alt="30-Day Matrix Heatmap" width="800" style="border-radius: 10px; margin-bottom: 15px;" />
   <p><i>The 30-Day Matrix Heatmap</i></p>
 
-  <img src="assets/setup.png" alt="Oracle AI Interface" width="800" style="border-radius: 10px; margin-bottom: 15px;" />
+  <img src="client/src/assets/setup.png" alt="Oracle AI Interface" width="800" style="border-radius: 10px; margin-bottom: 15px;" />
   <p><i>Integrated Oracle AI Assistant</i></p>
 </div>
 
