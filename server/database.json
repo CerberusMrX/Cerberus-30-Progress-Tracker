@@ -1,0 +1,3904 @@
+{
+  "challenges": [
+    {
+      "_id": "ckolszx089i",
+      "name": "Project Cerberus",
+      "description": "",
+      "duration": 30,
+      "disciplineMode": false,
+      "failResetEnabled": false,
+      "difficulty": "medium",
+      "defaultTasks": [
+        "Drink 1 gallon of water",
+        "Workout 45 mins",
+        "Read 10 pages"
+      ],
+      "startDate": "2026-04-06",
+      "createdAt": "2026-04-06T20:11:33.352Z"
+    },
+    {
+      "_id": "az9z1jj2ifl",
+      "name": "Daliy Routine ",
+      "description": "",
+      "duration": 30,
+      "disciplineMode": true,
+      "failResetEnabled": false,
+      "difficulty": "medium",
+      "defaultTasks": [
+        "Wake Up – 4.30 AM",
+        "2 Kilometer Walk",
+        "Workout",
+        "Build Session",
+        "Learning Session",
+        "Content Creation Session",
+        "6 Meal Per Day",
+        "6 Hours + Sleep"
+      ],
+      "startDate": "2026-04-06",
+      "createdAt": "2026-04-06T20:25:24.406Z"
+    },
+    {
+      "_id": "eywrn4976ko",
+      "name": "30-day discipline",
+      "description": "",
+      "duration": 30,
+      "disciplineMode": true,
+      "failResetEnabled": false,
+      "difficulty": "medium",
+      "defaultTasks": [
+        "Wake Up – 4.30 AM",
+        "2 Kilometer Walk",
+        "Workout",
+        "Build Session",
+        "Learning Session",
+        "Content Creation Session",
+        "6 Meal Per Day",
+        "6 Hours + Sleep"
+      ],
+      "startDate": "2026-07-04",
+      "createdAt": "2026-07-04T04:28:28.031Z"
+    }
+  ],
+  "days": [
+    {
+      "_id": "5n0ayt71qj6",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 1,
+      "date": "2026-04-06T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "lcebywmbreq",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 2,
+      "date": "2026-04-07T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "1ol4i2ujafe",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 3,
+      "date": "2026-04-08T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "pzxsptg0pic",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 4,
+      "date": "2026-04-09T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "s0zrkco97pf",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 5,
+      "date": "2026-04-10T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "jdgrapravbc",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 6,
+      "date": "2026-04-11T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "qnp4095jk8m",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 7,
+      "date": "2026-04-12T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "ditlv95kt26",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 8,
+      "date": "2026-04-13T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "q614vibgvzf",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 9,
+      "date": "2026-04-14T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "mgrkg7yeudo",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 10,
+      "date": "2026-04-15T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "hysp41cb6l5",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 11,
+      "date": "2026-04-16T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "vxwngcl2apm",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 12,
+      "date": "2026-04-17T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "wogajmjr2r",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 13,
+      "date": "2026-04-18T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "myfsk6gmvj",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 14,
+      "date": "2026-04-19T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "vs3oi01ra5c",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 15,
+      "date": "2026-04-20T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "hoerb39xd8o",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 16,
+      "date": "2026-04-21T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "pvi28b7j58o",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 17,
+      "date": "2026-04-22T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "o372w4y36s",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 18,
+      "date": "2026-04-23T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "0g8rk14xjufv",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 19,
+      "date": "2026-04-24T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "35epx6av7as",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 20,
+      "date": "2026-04-25T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "5rrq5fbt6l4",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 21,
+      "date": "2026-04-26T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "e0pstxbsufd",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 22,
+      "date": "2026-04-27T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "l4j4nupcyag",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 23,
+      "date": "2026-04-28T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "mrdvdujjed",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 24,
+      "date": "2026-04-29T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "c4r8huhfgam",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 25,
+      "date": "2026-04-30T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "hu5wkrbqja6",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 26,
+      "date": "2026-05-01T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "khvf449ipzn",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 27,
+      "date": "2026-05-02T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "zxnaknca8oc",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 28,
+      "date": "2026-05-03T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "koidvbzq1ul",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 29,
+      "date": "2026-05-04T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "lvrlw6wh2a",
+      "challengeId": "ckolszx089i",
+      "dayNumber": 30,
+      "date": "2026-05-05T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Drink 1 gallon of water",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "Workout 45 mins",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Read 10 pages",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "z6vduy8exc",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 1,
+      "date": "2026-04-06T00:00:00.000Z",
+      "status": "partial",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": true
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": true
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": true
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "ohqxp2zinp",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 2,
+      "date": "2026-04-07T00:00:00.000Z",
+      "status": "partial",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": true
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": true
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": true
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "auq5csrdws",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 3,
+      "date": "2026-04-08T00:00:00.000Z",
+      "status": "partial",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": true
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": true
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "k9a8aznbtv",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 4,
+      "date": "2026-04-09T00:00:00.000Z",
+      "status": "completed",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": true
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": true
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": true
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": true
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": true
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": true
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": true
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": true
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "jmwoz40dz0d",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 5,
+      "date": "2026-04-10T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "5iwas4izres",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 6,
+      "date": "2026-04-11T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "fa0ibkoveko",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 7,
+      "date": "2026-04-12T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "b1irvf0qz4",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 8,
+      "date": "2026-04-13T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "jqxfbjexlg",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 9,
+      "date": "2026-04-14T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "mr5hutlhn1c",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 10,
+      "date": "2026-04-15T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "0h6u5vzbfbue",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 11,
+      "date": "2026-04-16T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "9igdya7zgpm",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 12,
+      "date": "2026-04-17T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "3gfeqyq4owm",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 13,
+      "date": "2026-04-18T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "1xlm7d5unxi",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 14,
+      "date": "2026-04-19T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "grb3cklf51s",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 15,
+      "date": "2026-04-20T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "6m8pifco3jc",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 16,
+      "date": "2026-04-21T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "flgnjr135h6",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 17,
+      "date": "2026-04-22T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "hrg7yattzv",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 18,
+      "date": "2026-04-23T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "y92ezitet4",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 19,
+      "date": "2026-04-24T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "cy16rzrjs0v",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 20,
+      "date": "2026-04-25T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "ibzuyy6aqs",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 21,
+      "date": "2026-04-26T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "sacid62jsd8",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 22,
+      "date": "2026-04-27T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "hglbh2nnp2j",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 23,
+      "date": "2026-04-28T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "57fda2kuok",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 24,
+      "date": "2026-04-29T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "410vu9r5vi",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 25,
+      "date": "2026-04-30T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "8yt3gnz5yx6",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 26,
+      "date": "2026-05-01T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "1p671y36i64",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 27,
+      "date": "2026-05-02T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "60mrh6h75so",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 28,
+      "date": "2026-05-03T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "n4x47d20fn",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 29,
+      "date": "2026-05-04T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "ak601ytclp9",
+      "challengeId": "az9z1jj2ifl",
+      "dayNumber": 30,
+      "date": "2026-05-05T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "nfpezncj8d",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 1,
+      "date": "2026-07-04T00:00:00.000Z",
+      "status": "partial",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": true
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": true
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": true
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": true
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": true
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "2y91ogiebxg",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 2,
+      "date": "2026-07-05T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "8vwgpx3xs8y",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 3,
+      "date": "2026-07-06T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "f2p9j7aug3",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 4,
+      "date": "2026-07-07T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "i9pmrheun2q",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 5,
+      "date": "2026-07-08T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "8wwugc15sah",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 6,
+      "date": "2026-07-09T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "by6s021beid",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 7,
+      "date": "2026-07-10T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "m29k6zaxya8",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 8,
+      "date": "2026-07-11T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "nrjau4ymeq",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 9,
+      "date": "2026-07-12T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "derhjwoajs8",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 10,
+      "date": "2026-07-13T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "t7gedwk7119",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 11,
+      "date": "2026-07-14T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "t2sreqfn4ol",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 12,
+      "date": "2026-07-15T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "l8rrt04maq",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 13,
+      "date": "2026-07-16T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "m7x5tnditjh",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 14,
+      "date": "2026-07-17T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "8hg5bohe3b8",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 15,
+      "date": "2026-07-18T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "wi2dz1f16xr",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 16,
+      "date": "2026-07-19T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "56j79e051rf",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 17,
+      "date": "2026-07-20T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "kxc58qgdtrn",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 18,
+      "date": "2026-07-21T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "qebh47n4i4k",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 19,
+      "date": "2026-07-22T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "fvsxwa3zov",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 20,
+      "date": "2026-07-23T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "5ypgmb1bxnj",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 21,
+      "date": "2026-07-24T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "3nj7x3mah8",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 22,
+      "date": "2026-07-25T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "gjolkydluzt",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 23,
+      "date": "2026-07-26T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "k6mfax58yd",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 24,
+      "date": "2026-07-27T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "d424r3r4s1w",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 25,
+      "date": "2026-07-28T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "oyaf4sklgyg",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 26,
+      "date": "2026-07-29T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "q00g28eol9o",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 27,
+      "date": "2026-07-30T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "wb5u7mk9xvb",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 28,
+      "date": "2026-07-31T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "afttkrvbqg6",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 29,
+      "date": "2026-08-01T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    },
+    {
+      "_id": "7azgc195k0j",
+      "challengeId": "eywrn4976ko",
+      "dayNumber": 30,
+      "date": "2026-08-02T00:00:00.000Z",
+      "status": "pending",
+      "tasks": [
+        {
+          "id": "task_0",
+          "text": "Wake Up – 4.30 AM",
+          "done": false
+        },
+        {
+          "id": "task_1",
+          "text": "2 Kilometer Walk",
+          "done": false
+        },
+        {
+          "id": "task_2",
+          "text": "Workout",
+          "done": false
+        },
+        {
+          "id": "task_3",
+          "text": "Build Session",
+          "done": false
+        },
+        {
+          "id": "task_4",
+          "text": "Learning Session",
+          "done": false
+        },
+        {
+          "id": "task_5",
+          "text": "Content Creation Session",
+          "done": false
+        },
+        {
+          "id": "task_6",
+          "text": "6 Meal Per Day",
+          "done": false
+        },
+        {
+          "id": "task_7",
+          "text": "6 Hours + Sleep",
+          "done": false
+        }
+      ],
+      "proofFiles": [],
+      "notes": ""
+    }
+  ]
+}
